@@ -7,10 +7,10 @@ For this project, I analyzed the state of climate change in Africa. This project
 1. Data cleaning and validation
 2. Used a line plot to show the trend of CO2 levels across the African regions.
 3. Conducted a Spearman's correlation to determine the relationship between time (Year) and CO2 levels across the African regions.
-4. I conducted an ANOVA test using pingouin.anova() on CO2 by Region, I also conducted a posthoc test (with Bonferroni correction) using pingouin.pairwise_tests() to check if there is a significant difference in the CO2 levels among the African Regions.
-5. I determined the most common (top 5) industries in each African region.
-6. I determined the industry responsible for the most amount of CO2 (on average) in each African Region.
-7. I created an instance of LinearRegression() and used reg.predict() to predict the CO2 levels (at each African region) in the year 2025.
+4. Conducted an ANOVA test using pingouin.anova() on CO2 by Region, I also conducted a posthoc test (with Bonferroni correction) using pingouin.pairwise_tests() to check if there is a significant difference in the CO2 levels among the African Regions.
+5. Determined the most common (top 5) industries in each African region.
+6. Determined the industry responsible for the most amount of CO2 (on average) in each African Region.
+7. Created an instance of LinearRegression() and used reg.predict() to predict the CO2 levels (at each African region) in the year 2025.
 8. Using a linear model I was able to assess the impact of CO2 levels on annual temperature in the selected African countries.
 
 **Findings:**
