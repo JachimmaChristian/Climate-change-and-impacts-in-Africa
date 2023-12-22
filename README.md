@@ -21,3 +21,5 @@ The "Residential and Other Sectors" and "Main Activity Electricity and Heat Prod
 Predicted CO2 levels are expected to continue rising in all regions by 2025.
 There is a statistically significant positive relationship between CO2 levels and annual temperature in the selected African countries. A one-unit increase in log10 CO2 is associated with a small but statistically significant increase in temperature.
 Overall, the project highlights the growing concern of climate change in Africa and emphasizes the need for regional and international efforts to reduce CO2 emissions and mitigate its impact on temperature and other environmental factors.
+
+Dive into the project [here](https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa/blob/main/workspace/workspace/notebook.ipynb)
