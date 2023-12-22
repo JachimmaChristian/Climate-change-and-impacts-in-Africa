@@ -1,5 +1,7 @@
 # Climate-change-and-impacts-in-Africa
-![](climatechangeimage.png)
+
+![](climatechangeimage.jpg)
+
 For this project, I analyzed the state of climate change in Africa. This project highlights the growing concern of climate change in Africa and emphasizes the need for regional and international efforts to reduce CO2 emissions and mitigate its impact on temperature and other environmental factors.
 
 ***_Project description and dataset information can be seen on the main project page._***
